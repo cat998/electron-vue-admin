@@ -2,17 +2,28 @@
 
 > An electron-vue project
 
+vue-admin-template的electron版本
+
+# 存在问题
+1. yarn run build 之后报错 "Maximum call stack size exceeded"
+2. Icons 不显示
+3. tuieditor 通过 yarn 安装会一直卡住，暂时注释掉了
+4. Table/Drag Table 提示 Error in callback for immediate watcher "data":"TypeError: Cannot read property 'reduce' of null"
+5. Error Log 提示 Cannot read property 'a' of undefined
+
+其他的没什么问题，能力有限，上述问题未能解决
+
 #### Build Setup
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 # serve with hot reload at localhost:9080
-npm run dev
+yarn run dev
 
 # build electron application for production
-npm run build
+yarn run build
 
 
 ```
