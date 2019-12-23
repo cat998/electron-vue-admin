@@ -13,6 +13,18 @@ vue-admin-template的electron版本
 
 其他的没什么问题，能力有限，上述问题未能解决
 
+# 效果图
+
+
+
+![1577109020578](./images/login.png)![1577109020578](./images/dashboard.png)
+
+![1577109020578](./images/tinymce.png)
+
+![1577109020578](./images/mix chart.png)
+
+![1577109020578](./images/guide.png)
+
 #### Build Setup
 
 ``` bash
