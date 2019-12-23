@@ -2,7 +2,7 @@
 
 > An electron-vue project
 
-vue-admin-template的electron版本
+[vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)的electron版本
 
 # 存在问题
 1. yarn run build 之后报错 "Maximum call stack size exceeded"
@@ -17,11 +17,11 @@ vue-admin-template的electron版本
 
 
 
-![1577109020578](./images/login.png)![1577109020578](./images/dashboard.png)
+![1577109020578](./images/login.png)
+
+![1577109020578](./images/dashboard.png)
 
 ![1577109020578](./images/tinymce.png)
-
-![1577109020578](./images/mix chart.png)
 
 ![1577109020578](./images/guide.png)
 
