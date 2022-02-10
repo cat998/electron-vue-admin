@@ -98,7 +98,7 @@
     "mockjs": "^1.1.0",
     "multispinner": "^0.2.1",
     "node-loader": "^0.6.0",
-    "node-sass": "^4.9.2",
+    "node-sass": "^7.0.0",
     "normalize.css": "^8.0.1",
     "nprogress": "^0.2.0",
     "sass-loader": "^7.0.3",
